@@ -15,17 +15,14 @@ A modern React Native GPS tracking application with custom voice personalities a
 ## 🎯 Features
 
 ### 🎤 Voice Navigation with Personalities
-- **Multiple voice personalities**: Professional, Friendly, Pirate, Zen Master, Sarcastic
-- **Custom phrases** for each personality
-- **Contextual announcements**: Turn-by-turn directions, traffic warnings, speed alerts
-- **Test voices** before selecting your favorite
-
-### 🅿️ Smart Parking
-- **One-tap parking spot save** with automatic address lookup
-- **Parking reminders** when you arrive at destinations
-- **Visual parking location** on map
+- **Multiple distinct personalities**: Main starter ideas: Professional (normal, "anxiety-free"), Pirate (yargh matey), Zen Master (literally just like Zenyatta from overwatch lol), Angsty/Sarcastic, Larry (name for the more explicit voice), and more.
+- **Dynamic voice behavior**: Personalities that react to your driving -- from calming encouragement to hilarious outbursts when you miss a turn.
+- **Engaging experience**: Voices that curse you out, yell at you, or roast your driving decisions for entertainment.
+- **Fully customizable**: Choose the experience YOU want, whether it be relaxing, professional, or wildly entertaining.
 
 ### 🚀 Coming Soon
+- **Smart Parking**: One-tap parking spot saving, parking reminders, and visual parking location
+- **History**: Route history and analytics dashboard
 - **Offline maps**: Download regions for offline navigation
 - **Route optimization**: Multi-stop trip planning with automatic reordering
 - **AR navigation**: Augmented reality directions overlay
